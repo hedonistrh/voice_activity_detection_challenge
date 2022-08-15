@@ -1,4 +1,3 @@
-# voice_activity_detection_challenge
 Codes for Voice Activity Detection Challenge which I did at 2018. 
 
 Tried two different models
